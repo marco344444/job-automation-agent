@@ -9,14 +9,6 @@ Agente local para organizar una búsqueda de empleo de forma reproducible y segu
 
 El proyecto **no envía postulaciones automáticamente**. El último paso siempre queda bajo control de la persona usuaria.
 
-## Por qué es un buen proyecto de portafolio
-
-- Python moderno con tipado, `dataclasses` y separación por capas.
-- Diseño preparado para conectar un agente local (Ollama/Qwen) sin hacer obligatoria una dependencia externa.
-- Scoring explicable: cada coincidencia muestra por qué una oferta fue priorizada.
-- Datos y salidas locales; no se suben CV, credenciales ni datos personales al repositorio.
-- Tests unitarios para el matching y la generación de documentos.
-
 ## Requisitos
 
 - Python 3.11+

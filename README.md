@@ -87,13 +87,3 @@ El MVP acepta el siguiente formato JSON:
 
 Los adaptadores para fuentes reales deben respetar las condiciones de uso y robots.txt de cada sitio. No se incluyen scrapers que evadan controles de acceso.
 
-## Publicar en GitHub
-
-```powershell
-git init
-git add .
-git commit -m "Initial job automation agent"
-git branch -M main
-git remote add origin https://github.com/<usuario>/job-automation-agent.git
-git push -u origin main
-```

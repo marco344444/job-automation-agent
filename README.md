@@ -97,5 +97,3 @@ git branch -M main
 git remote add origin https://github.com/<usuario>/job-automation-agent.git
 git push -u origin main
 ```
-
-Antes de publicar, reemplaza los datos de ejemplo por datos ficticios y confirma que nunca se hayan añadido credenciales o tu CV real.

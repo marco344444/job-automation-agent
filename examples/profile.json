@@ -1,0 +1,7 @@
+{
+  "name": "Alex Candidate",
+  "target_roles": ["Data Engineer", "Python Developer"],
+  "skills": ["Python", "SQL", "Docker"],
+  "years_experience": 3,
+  "preferred_locations": ["Remote"]
+}

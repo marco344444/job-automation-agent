@@ -1,0 +1,11 @@
+[
+  {
+    "id": "cloud-platform-intern",
+    "title": "Cloud Platform Engineering Intern",
+    "company": "Andes Cloud Labs",
+    "location": "Remote - Colombia",
+    "url": "https://example.com/jobs/cloud-platform-intern",
+    "description": "Support backend services, cloud infrastructure and reliable data workflows.",
+    "skills": ["Python", "AWS", "Docker", "SQL", "Git"]
+  }
+]
